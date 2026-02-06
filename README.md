@@ -4,8 +4,8 @@ AI CHATBOT is a minimal chatbot web application built using **Python (FastAPI)**
 
 
 ## 🎯 Project Purpose
-- Practice Python backend development with FastAPI
-- Understand frontend and backend communication
+- Practice Python backend development with FastAPI!
+- Understand frontend and backend communication!
 - Learn AI integration step by step
 - Maintain consistent daily GitHub activity
 
