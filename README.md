@@ -10,7 +10,7 @@ AI CHATBOT is a minimal chatbot web application built using **Python (FastAPI)**
 - Maintain consistent daily GitHub activity
 
 ---
-!
+
 ## ✨ Current Features
 - Single-page chat interface
 - FastAPI backend with `/chat` endpoint
