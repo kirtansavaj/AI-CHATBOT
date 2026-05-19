@@ -1,5 +1,5 @@
 # 🤖 AI CHATBOT
-!
+
 AI CHATBOT is a minimal chatbot web application built using **Python (FastAPI)** for the backend and **HTML, CSS, and JavaScript** for the frontend.
 
 
